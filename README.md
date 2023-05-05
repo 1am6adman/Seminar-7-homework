@@ -7,6 +7,10 @@
 
 [Решение](https://github.com/1am6adman/Seminar-7-homework/blob/main/Example050/Program.cs)
 
-Задача 52. Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждой строке.
+Задача 52. Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждой строке.(Неверно прочитал задание)
 
 [Решение](https://github.com/1am6adman/Seminar-7-homework/blob/main/Example052/Program.cs)
+
+Задача 52. Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждом столбце.
+
+[Решение](https://github.com/1am6adman/Seminar-7-homework/blob/main/Example052New/Program.cs)
