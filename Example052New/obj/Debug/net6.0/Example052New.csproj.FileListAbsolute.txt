@@ -1,0 +1,15 @@
+D:\Seminar 7 homework\Example052New\bin\Debug\net6.0\Example052New.exe
+D:\Seminar 7 homework\Example052New\bin\Debug\net6.0\Example052New.deps.json
+D:\Seminar 7 homework\Example052New\bin\Debug\net6.0\Example052New.runtimeconfig.json
+D:\Seminar 7 homework\Example052New\bin\Debug\net6.0\Example052New.dll
+D:\Seminar 7 homework\Example052New\bin\Debug\net6.0\Example052New.pdb
+D:\Seminar 7 homework\Example052New\obj\Debug\net6.0\Example052New.csproj.AssemblyReference.cache
+D:\Seminar 7 homework\Example052New\obj\Debug\net6.0\Example052New.GeneratedMSBuildEditorConfig.editorconfig
+D:\Seminar 7 homework\Example052New\obj\Debug\net6.0\Example052New.AssemblyInfoInputs.cache
+D:\Seminar 7 homework\Example052New\obj\Debug\net6.0\Example052New.AssemblyInfo.cs
+D:\Seminar 7 homework\Example052New\obj\Debug\net6.0\Example052New.csproj.CoreCompileInputs.cache
+D:\Seminar 7 homework\Example052New\obj\Debug\net6.0\Example052New.dll
+D:\Seminar 7 homework\Example052New\obj\Debug\net6.0\refint\Example052New.dll
+D:\Seminar 7 homework\Example052New\obj\Debug\net6.0\Example052New.pdb
+D:\Seminar 7 homework\Example052New\obj\Debug\net6.0\Example052New.genruntimeconfig.cache
+D:\Seminar 7 homework\Example052New\obj\Debug\net6.0\ref\Example052New.dll
